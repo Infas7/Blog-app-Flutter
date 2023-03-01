@@ -1,4 +1,4 @@
-# my_app
+# blogging_hub
 
 A new Flutter project.
 
